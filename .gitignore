@@ -18,9 +18,6 @@ apex-scripts/*
 IlluminatedCloud/
 Tython-DELETE.iml
 
-#Ignore package.xml
-package.xml
-
 #Ignore Eclipse Project Files
 salesforce.schema
 Referenced\ Packages/*
