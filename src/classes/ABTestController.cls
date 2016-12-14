@@ -53,7 +53,7 @@ public with sharing class ABTestController {
     @AuraEnabled
     public static void convertABTest(List<String> experiment, String clientId) {
         // Callout
-        // Instantiate a new http object
+        // Instantiate a n ew http object
         Http h = new Http();
         // Instantiate a new HTTP request, specify the method (GET) as well as the endpoint
         HttpRequest req = new HttpRequest();
